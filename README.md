@@ -1,2 +1,19 @@
-# Quantum_Mechanics_and_Digital_Clusters_Class
-Learning notes and projects from the “Quantum Mechanics &amp; Digital Cluster Computing” multidisciplinary elective course.
+# 量子力學之美，數位叢集計算
+
+本專案用於記錄高中多元選修課程「量子力學之美，數位叢集計算」的學習歷程。
+
+課程前半段將從量子力學出發，學習量子世界的基本概念與相關物理現象；後半段則進一步進入資訊領域，探索數位叢集計算及相關的計算技術。
+
+## 課程內容
+
+### 量子力學
+
+
+
+### 數位叢集計算
+
+
+
+## Learning Record
+
+
