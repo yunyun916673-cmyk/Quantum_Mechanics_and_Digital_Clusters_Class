@@ -1,4 +1,4 @@
-# Online Learning
+# Online_Learning
 
 本資料夾用於記錄「量子力學之美，數位叢集計算」課程中的線上自主學習內容。
 
