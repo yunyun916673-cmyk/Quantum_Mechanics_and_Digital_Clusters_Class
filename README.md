@@ -13,7 +13,3 @@
 ### 數位叢集計算
 
 
-
-## Learning Record
-
-
